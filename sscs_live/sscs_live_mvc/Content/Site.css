@@ -1,0 +1,229 @@
+﻿body {
+    font-size: .85em;
+    font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
+    color: #f68407;
+    background-color: #fff;
+}
+
+header, footer, nav, section {
+    display: block;
+}
+
+/*
+    Darie Edit 
+
+*/
+
+@charset "UTF-8";
+/* CSS Document */
+
+html, body
+{
+	margin: 0;
+	padding: 0;	
+}
+
+.search-button 
+{
+    height: 40px;
+    width:400px;
+    font-family:"Times New Roman", Times, serif;
+	font-size:20px;
+	color:#ECECEC;
+    margin: 150px 0px 200px 200px;
+    border-radius:  15px;
+}
+
+    .search-button:focus
+    {
+        border: 5px dashed #8009f7
+    }
+
+.submit-button 
+{
+    height: 100px;
+    width:100px;
+    background: url(pictures/searchBoy1.png) no-repeat;
+    background-size: 100px;
+    border:none;
+}
+    .submit-button:focus 
+    {
+        cursor:pointer;
+    }
+/*
+body
+{
+	font-family:"Times New Roman", Times, serif;
+	font-size:13px;
+	color:#600;
+	background:#FFF
+}
+.hidden{ display: none;}
+*/
+h1, h2
+{
+	margin: 0;
+	padding: 0;
+	
+}
+#canvas
+{
+	width: 800px; 
+	margin: auto;
+	background:#CCC;
+}
+#menu
+{
+	background: #8009f7;
+	/*background:#999999;*/
+	height: 80px;
+}
+#menu
+{
+	height: 50px;
+	margin: 0;
+	padding:0;	
+}
+#menu ul 
+{ 
+	margin-left: 200px; padding: 0; 
+	
+}
+#menu a
+{
+	color: #3CC;
+}
+
+#menu a:visited
+{
+	color: #F9F;
+}
+
+#menu li 
+{
+	 list-style:none;
+	 float: left; 
+	 margin-right:100px;
+	 margin-top:20px;
+	 color: #3C9;
+}
+
+
+
+.whitespace
+{
+	height: 20px;
+}
+
+#header
+{/*	background: url( */
+	height: 550px;	
+}
+
+#donate
+{
+	background: #FF6FCF;
+	float: right; 
+	width: 300px;
+	line-height: 20px;	
+}
+#donate.padding {
+	padding: 25px;
+}	 
+#main 
+{	   
+	background:#FFF;
+	margin-right: 300px;
+	line-height: 20px;
+}
+#main .padding {
+	padding: 25px;
+}
+#main h2 
+{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+	
+}
+
+#main p 
+{
+	margin: 0;
+	padding: 0;
+	padding-bottom: 15px;
+}	 
+#footer 
+{
+	clear: both;
+	background:#ECECEC;
+	border: 5px solid #979797;
+	padding:13px;
+/*	height: 66px;
+*/	
+}
+
+#footer #altnav
+{
+	width: 500px;
+	float: right;
+	text-align: right;
+}
+
+/*
+    Edit Ends
+    -------------------------------------*/
+
+
+
+
+/* Styles for basic forms
+-----------------------------------------------------------*/
+fieldset {
+    border: 1px solid #ddd;
+    padding: 0 1.4em 1.4em 1.4em;
+    margin: 0 0 1.5em 0;
+}
+
+legend {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+textarea {
+    min-height: 75px;
+}
+
+.editor-label {
+    margin: 1em 0 0 0;
+}
+
+.editor-field {
+    margin: 0.5em 0 0 0;
+}
+
+
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error {
+    color: #f00;
+}
+
+.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 5px solid #f00;
+    background-color: #fee;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}

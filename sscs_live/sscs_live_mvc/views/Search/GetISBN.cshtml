@@ -1,0 +1,22 @@
+﻿@model SSCS_LIVE.Domain.Entities.Book
+
+@{
+    ViewBag.Title = "Home";
+   
+}
+
+
+
+<p> </p>
+@using (Html.BeginForm("Search", "Search"))
+{
+    
+        
+    
+        @Html.TextBoxFor(m => m.ISBN, null, new  {@class="search-button", @placeholder = "Enter ISBN"}) 
+        
+  <input class ="submit-button"  type ="submit" value =""/>
+}
+
+
+

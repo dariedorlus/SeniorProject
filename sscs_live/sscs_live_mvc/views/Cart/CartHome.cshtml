@@ -1,0 +1,28 @@
+﻿@model SSCS_LIVE_MVC.Models.CartModelView
+
+@{
+    ViewBag.Title = "CartHome";
+}
+
+<h2>Cart Summary</h2>
+
+<tbody>
+    @foreach (var line in Model.Cart.Lines)
+    {
+        <tr>
+            <!-- <td align="center">book.</td> 
+                  <td align="right">//((book.Quantity
+                  * book.Price).ToString("c"))</td> -->
+            <td align="left">@line.Book.Title</td>
+            <td align="right">@line.Book.Price.ToString("c")</td>
+
+            <td>
+                @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                {
+                    @Html.Hidden("BookId", line.Book.BookId)
+                    @Html.HiddenFor(x => x.ReturnUrl)
+                    <input class="actionButtons" type="submit" value="Remove" />
+                }           </td>
+        </tr> 
+    }
+</tbody>

@@ -1,0 +1,73 @@
+﻿@model SSCS_LIVE.Domain.Entities.Book
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Book</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Title)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ISBN)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ISBN)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.AuthorFirstN)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.AuthorFirstN)
+        @Html.DisplayFor(model => model.AuthorLastN)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Condition)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Condition)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Description)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Description)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Price)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Price)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IsForsale)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsForsale)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.IsSold)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.IsSold)
+    </div>
+
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.BookId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

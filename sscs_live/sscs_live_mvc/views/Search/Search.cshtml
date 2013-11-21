@@ -1,0 +1,72 @@
+﻿@model List<SSCS_LIVE.Domain.Entities.Book>
+
+@{
+    ViewBag.Title = "Search";
+}
+
+<h2>Search Results</h2>
+ <div class="item">
+ <table>
+            <tr>
+                <th style=" ">@Html.Label("Title")</th>
+                 
+                <th>@Html.Label("ISBN")</th>
+                 
+                <th>@Html.Label("Price")</th>
+                <th>
+                </th>
+                
+            </tr>
+
+@foreach (var book in Model)
+{
+   
+      @Html.BeginForm("AddToCart", "Cart")
+        {
+            <tr>
+                <td>                    
+                    @book.Title
+                </td>
+            
+                <td>                    
+                    @book.ISBN
+                </td>
+             
+                <td>                    
+                 $@book.Price
+                </td>
+            
+                <td>                      
+                    <img src="@book.Picture" />
+                </td>
+                <td>
+                 
+               @if(book.IsForsale == true)
+                {
+                         @Html.HiddenFor(b => book.BookId);
+                         @Html.Hidden("returnUrl", Request.Url.PathAndQuery);
+                        <input type="submit" value="+ Add to cart" />
+               }    
+
+                </td>
+
+            </tr>
+        }
+
+
+        
+        using(Html.BeginForm("CartHome", "Cart")) 
+        {
+           if(book.IsForsale == true)
+            {
+               //@Html.HiddenFor(Model.) 
+              // Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+             //<!--input type="submit" value=" Add to cart" /-->
+            } 
+          }
+    
+   
+    
+} </table>
+ </div>
+ @Html.ActionLink("Home", "GetISBN")

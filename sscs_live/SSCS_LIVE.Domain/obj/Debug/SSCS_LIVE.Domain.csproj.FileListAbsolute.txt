@@ -1,0 +1,37 @@
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.dll.config
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.dll
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.pdb
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\Ninject.dll
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\Ninject.pdb
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\Ninject.xml
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.dll
+C:\Users\Darie\documents\visual studio 2012\Projects\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.pdb
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.dll.config
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.dll
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.pdb
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\Ninject.dll
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\Ninject.pdb
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\bin\Debug\Ninject.xml
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.dll
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.pdb
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.Migrations.mig.resources
+C:\Users\Darie\Documents\GitHub\SeniorProject\SSCS_LIVE\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.csproj.GenerateResource.Cache
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.dll.config
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.dll
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\SSCS_LIVE.Domain.pdb
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\EntityFramework.dll
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\Ninject.dll
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\EntityFramework.xml
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\Ninject.pdb
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\bin\Debug\Ninject.xml
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.csprojResolveAssemblyReference.cache
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.Migrations.mig.resources
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.csproj.GenerateResource.Cache
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.dll
+C:\Users\darie.dorlus\Documents\Personal\Shool Work\GitHub\seniorproject\sscs_live\SSCS_LIVE.Domain\obj\Debug\SSCS_LIVE.Domain.pdb

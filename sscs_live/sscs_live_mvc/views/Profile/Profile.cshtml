@@ -1,0 +1,15 @@
+﻿@model IEnumerable<SSCS_LIVE.Domain.Entities.UserInfo>
+
+@{
+    ViewBag.Title = "Profile";
+}
+
+<h2>Profile</h2>
+
+@foreach (var person in Model)
+{
+    <div class="UserInfo">
+        <h3>@person.FirstN</h3>
+
+    </div>
+}
